@@ -26,7 +26,7 @@
 
 ---
 
-Desarrollo software desde Latinoamérica en dos frentes: sistemas a medida para negocios que necesitan resolver su operación diaria, y proyectos de código abierto que nacen cuando la herramienta que hace falta todavía no existe. Todo lo que publico aquí comparte los mismos principios: código que se puede leer, documentación que se puede seguir y aplicaciones que no incluyen anuncios, rastreadores ni dependencias innecesarias.
+Desarrollo software desde Latinoamérica en dos frentes: sistemas a medida para negocios que necesitan resolver su operación diaria, y proyectos de código abierto que nacen cuando la herramienta que quiero todavía no existe. Todo lo que publico aquí comparte los mismos principios: código que se puede leer, documentación que se puede seguir y aplicaciones que no incluyen anuncios, rastreadores ni dependencias innecesarias.
 
 <br/>
 
