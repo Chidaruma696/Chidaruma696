@@ -44,8 +44,9 @@ Transmuto problemas en software: a veces porque un negocio lo necesita y a veces
 
 | | Proyecto | Qué es | Con qué |
 | --- | --- | --- | --- |
-| 📺 | [**Watanuki**](https://github.com/Chidaruma696/Watanuki) | Lector de anime para Latinoamérica: 59 fuentes en español compiladas dentro del APK, reproductor libVLC, descargas en paralelo, diez paletas Touhou | Kotlin · Compose · libVLC |
-| 📖 | [**Yuko**](https://github.com/Chidaruma696/Yuko) | Lector de manga, hermana de Watanuki: parsers de Kotatsu compilados, capítulos completados entre fuentes, lector de derecha a izquierda ajustado al alto | Kotlin · Compose |
+| 📺 | [**Watanuki**](https://github.com/Chidaruma696/Watanuki) | Visor de anime para Latinoamérica: 59 fuentes en español compiladas dentro del APK, reproductor libVLC, descargas en paralelo, diez paletas Touhou | Kotlin · Compose · libVLC |
+| 📖 | [**Yuko**](https://github.com/Chidaruma696/Yuko) | Lector de manga, la maestra de Watanuki: parsers de Kotatsu compilados, capítulos completados entre fuentes, lector de derecha a izquierda ajustado al alto | Kotlin · Compose |
+| 📄 | [**Fumito**](https://github.com/Chidaruma696/Fumito) | Tu CV a partir de tus repos de GitHub: página estática sin servidor ni IA, tres plantillas, foto, PDF y Markdown, todo dentro del navegador · [pruébalo](https://chidaruma696.github.io/Fumito/) | JavaScript · GitHub Pages |
 | 🏪 | [**ToyPOS**](https://github.com/Chidaruma696/ToyPOS) | Núcleo de un punto de venta multi-sucursal: dominio puro, SQLite local-first, permisos con alcance, bitácora inmutable, enteros de punta a punta | Rust · sqlx · OpenSpec |
 | 🧟 | [**Win2k Undead**](https://github.com/Chidaruma696/Win2k_undead) | El escritorio de Windows 2000 resucitado para XFCE 4.18 y 4.20, con un instalador nativo para Arch, Debian, Ubuntu, Fedora y Void | Bash · GTK · xfconf |
 | ⚖️ | [**Kana**](https://github.com/Chidaruma696/Kana) | Básculas Torrey desde el navegador con Web Serial: sondeo, parser con banderas de estabilidad, estabilizador probado en mostrador, reconexión y simulador | JavaScript · npm |
