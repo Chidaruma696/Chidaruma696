@@ -69,17 +69,6 @@ I build software from Latin America on two fronts: custom systems for businesses
 
 <br/>
 
-## 🧪 Unpublished work
-
-Projects developed for clients or still in progress, which for that reason do not appear on this profile:
-
-- 🏢 A business management **ERP**, currently in its second version.
-- 🧾 A **PHP management system** that sustains the daily operations of a running business.
-- 🐍 **Python tools** for data processing and automation of recurring tasks.
-- 🔁 **n8n automation workflows** that integrate services and remove manual work.
-
-<br/>
-
 ## 🎌 Principles
 
 - **Latin America first.** The anime and manga applications exist because the legal offering in the region arrives late or does not arrive at all. The day it does, they will stop being necessary, and that will be good news.
