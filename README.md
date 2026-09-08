@@ -82,8 +82,9 @@ Para trabajo y negocios: **jp@azazel.dev**
 
 <div align="center">
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=Chidaruma696&show_icons=true&hide_border=true&bg_color=00000000&title_color=c62b3c&icon_color=c62b3c&text_color=8a8a8a)
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Chidaruma696&layout=compact&hide_border=true&bg_color=00000000&title_color=c62b3c&text_color=8a8a8a&hide=html,css)
+![Repos públicos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Chidaruma696&query=%24.public_repos&label=repos%20p%C3%BAblicos&style=for-the-badge&color=c62b3c)
+![Seguidores](https://img.shields.io/github/followers/Chidaruma696?style=for-the-badge&logo=github&label=seguidores&color=c62b3c)
+![Estrellas](https://img.shields.io/github/stars/Chidaruma696?affiliations=OWNER&style=for-the-badge&label=estrellas&color=c62b3c)
 
 <br/>
 
