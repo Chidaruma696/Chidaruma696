@@ -48,6 +48,8 @@ Transmuto problemas en software: a veces porque un negocio lo necesita y a veces
 | 📖 | [**Yuko**](https://github.com/Chidaruma696/Yuko) | Lector de manga, hermana de Watanuki: parsers de Kotatsu compilados, capítulos completados entre fuentes, lector de derecha a izquierda ajustado al alto | Kotlin · Compose |
 | 🏪 | [**ToyPOS**](https://github.com/Chidaruma696/ToyPOS) | Núcleo de un punto de venta multi-sucursal: dominio puro, SQLite local-first, permisos con alcance, bitácora inmutable, enteros de punta a punta | Rust · sqlx · OpenSpec |
 | 🧟 | [**Win2k Undead**](https://github.com/Chidaruma696/Win2k_undead) | El escritorio de Windows 2000 resucitado para XFCE 4.18 y 4.20, con un instalador nativo para Arch, Debian, Ubuntu, Fedora y Void | Bash · GTK · xfconf |
+| ⚖️ | [**Kana**](https://github.com/Chidaruma696/Kana) | Básculas Torrey desde el navegador con Web Serial: sondeo, parser con banderas de estabilidad, estabilizador probado en mostrador, reconexión y simulador | JavaScript · npm |
+| 🏷️ | [**Tohru**](https://github.com/Chidaruma696/Tohru) | Códigos de barras de báscula para Python: EAN-13, identidad por paquete, peso embebido y tolerancia a lectores que mutilan dígitos | Python · pip |
 | 🌐 | [**azazel-dev**](https://github.com/Chidaruma696/azazel-dev) | Sitio portfolio en cuatro idiomas con animaciones, la cara pública del estudio | Next.js 15 · Tailwind v4 |
 
 <br/>
@@ -69,6 +71,12 @@ Lo que no está aquí porque es de clientes o todavía está en el horno:
 - **Android abierto.** Todo lo que publico depende de poder instalar lo que uno quiere en su propio teléfono. [Keep Android Open](https://keepandroidopen.org/es/).
 - **Sin ruido.** Cero anuncios, cero rastreo, cero paquetes que rompan el sistema. Se instala limpio y se desinstala limpio.
 - **Anime, manga, Touhou y Linux.** En ese orden algunos días, en otro orden los demás.
+
+<br/>
+
+## ✉️ Contacto
+
+Para trabajo y negocios: **jp@azazel.dev**
 
 <br/>
 
