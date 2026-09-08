@@ -82,11 +82,6 @@ Para trabajo y negocios: **jp@azazel.dev**
 
 <div align="center">
 
-![Seguidores](https://img.shields.io/github/followers/Chidaruma696?style=for-the-badge&logo=github&label=seguidores&color=c62b3c)
-![Estrellas](https://img.shields.io/github/stars/Chidaruma696?style=for-the-badge&logo=github&label=estrellas&color=c62b3c&affiliations=OWNER)
-
-<br/>
-
 *Hecho en Latinoamérica.*
 
 錬金 · れんきん
