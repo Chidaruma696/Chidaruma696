@@ -82,14 +82,8 @@ Para trabajo y negocios: **jp@azazel.dev**
 
 <div align="center">
 
-![Actividad](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chidaruma696&theme=default)
-
-![Lenguajes por repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chidaruma696&theme=default)
-![Lenguajes por commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chidaruma696&theme=default)
-
-![Repos públicos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Chidaruma696&query=%24.public_repos&label=repos%20p%C3%BAblicos&style=for-the-badge&color=c62b3c)
 ![Seguidores](https://img.shields.io/github/followers/Chidaruma696?style=for-the-badge&logo=github&label=seguidores&color=c62b3c)
-![Estrellas](https://img.shields.io/github/stars/Chidaruma696?affiliations=OWNER&style=for-the-badge&label=estrellas&color=c62b3c)
+![Estrellas](https://img.shields.io/github/stars/Chidaruma696?style=for-the-badge&logo=github&label=estrellas&color=c62b3c&affiliations=OWNER)
 
 <br/>
 
