@@ -82,8 +82,6 @@ Para trabajo y negocios: **jp@azazel.dev**
 
 <div align="center">
 
-*Hecho en Latinoamérica.*
-
 錬金 · れんきん
 
 </div>
