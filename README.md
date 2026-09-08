@@ -1,15 +1,15 @@
-[🇬🇧 English](README.en.md)
+[🇪🇸 Español](README.es.md)
 
 <div align="center">
   <br/>
 
 # Chidaruma
 
-**錬金 · Alquimista del código.**
+**錬金 · Alchemist of code.**
 
 <br/>
 
-*Desarrollo de software independiente y a medida · Android · Linux · Latinoamérica*
+*Independent and custom software development · Android · Linux · Latin America*
 
 <br/>
 
@@ -28,59 +28,59 @@
 
 ---
 
-Desarrollo software desde Latinoamérica en dos frentes: sistemas a medida para negocios que necesitan resolver su operación diaria, y proyectos de código abierto que nacen cuando la herramienta que quiero todavía no existe. Todo lo que publico aquí comparte los mismos principios: código que se puede leer, documentación que se puede seguir y aplicaciones que no incluyen anuncios, rastreadores ni dependencias innecesarias.
+I build software from Latin America on two fronts: custom systems for businesses that need to run their daily operations, and open-source projects born whenever the tool I want does not exist yet. Everything I publish here shares the same principles: code that can be read, documentation that can be followed, and applications that ship without ads, trackers or unnecessary dependencies.
 
 <br/>
 
-## ⚗️ Áreas de trabajo
+## ⚗️ Areas of work
 
-| 🧭 Proyectos propios | 🧾 Desarrollo a medida |
+| 🧭 Own projects | 🧾 Custom development |
 | --- | --- |
-| Aplicaciones Android de código abierto para Latinoamérica: anime y manga con las fuentes compiladas dentro del APK, sin extensiones externas ni tiendas intermedias | Sistemas de gestión empresarial: puntos de venta, inventarios y ERP, con reglas de negocio verificadas y bitácoras inmutables |
-| Herramientas para el navegador que funcionan sin servidor: generación de documentos, integración con hardware mediante Web Serial | Sitios corporativos y portfolios en Next.js, con soporte multilingüe y despliegue estático |
-| Bibliotecas pequeñas y bien probadas para JavaScript y Python, publicables como paquetes | Automatización de procesos con Python, PHP y n8n: integración entre servicios, procesamiento de datos y tareas internas |
-| Temas y entornos de escritorio para Linux, con instaladores multidistribución | Documentación técnica orientada a que el proyecto pueda mantenerse sin depender de su autor |
+| Open-source Android applications for Latin America: anime and manga with the sources compiled into the APK, with no external extensions or intermediary stores | Business management systems: points of sale, inventories and ERP, with verified business rules and immutable audit logs |
+| Browser tools that work without a server: document generation, hardware integration through Web Serial | Corporate sites and portfolios in Next.js, with multilingual support and static deployment |
+| Small, well-tested libraries for JavaScript and Python, ready to be published as packages | Process automation with Python, PHP and n8n: integration between services, data processing and internal tasks |
+| Themes and desktop environments for Linux, with multi-distribution installers | Technical documentation written so the project can be maintained without depending on its author |
 
 <br/>
 
-## 📦 Proyectos publicados
+## 📦 Published projects
 
-| | Proyecto | Descripción | Tecnología |
+| | Project | Description | Technology |
 | --- | --- | --- | --- |
-| 📺 | [**Watanuki**](https://github.com/Chidaruma696/Watanuki) | Visor de anime para Latinoamérica: 59 fuentes en español compiladas dentro del APK, reproductor libVLC, descargas en paralelo y diez paletas inspiradas en Touhou | Kotlin · Compose · libVLC |
-| 📖 | [**Yuko**](https://github.com/Chidaruma696/Yuko) | Lector de manga, la maestra de Watanuki: parsers de Kotatsu compilados, capítulos completados entre fuentes y lector de derecha a izquierda ajustado al alto | Kotlin · Compose |
-| 📄 | [**Fumito**](https://github.com/Chidaruma696/Fumito) | Generador de currículum a partir de repositorios de GitHub: página estática sin servidor ni inteligencia artificial, tres plantillas, exportación a PDF y Markdown · [demostración](https://chidaruma696.github.io/Fumito/) | JavaScript · GitHub Pages |
-| 🏪 | [**ToyPOS**](https://github.com/Chidaruma696/ToyPOS) | Núcleo de un punto de venta multisucursal: dominio puro, SQLite local-first, permisos con alcance, bitácora inmutable y aritmética entera de extremo a extremo | Rust · sqlx · OpenSpec |
-| 🧟 | [**Win2k Undead**](https://github.com/Chidaruma696/Win2k_undead) | El escritorio de Windows 2000 recreado para XFCE 4.18 y 4.20, con instalador nativo para Arch, Debian, Ubuntu, Fedora, Void y openSUSE | Bash · GTK · xfconf |
-| ⚖️ | [**Kana**](https://github.com/Chidaruma696/Kana) | Básculas Torrey desde el navegador con Web Serial: sondeo, parser con banderas de estabilidad, estabilizador probado en mostrador, reconexión automática y simulador | JavaScript · npm |
-| 🏷️ | [**Tohru**](https://github.com/Chidaruma696/Tohru) | Códigos de barras de báscula para Python: EAN-13, identidad por paquete, peso embebido y tolerancia a lectores que recortan dígitos | Python · pip |
-| 🌐 | [**azazel-dev**](https://github.com/Chidaruma696/azazel-dev) | Sitio portfolio en cuatro idiomas con animaciones, la presencia pública del estudio | Next.js 15 · Tailwind v4 |
+| 📺 | [**Watanuki**](https://github.com/Chidaruma696/Watanuki) | Anime viewer for Latin America: 59 Spanish-language sources compiled into the APK, libVLC player, parallel downloads and ten Touhou-inspired palettes | Kotlin · Compose · libVLC |
+| 📖 | [**Yuko**](https://github.com/Chidaruma696/Yuko) | Manga reader, Watanuki's master: compiled Kotatsu parsers, chapters completed across sources and a right-to-left reader fitted to the page height | Kotlin · Compose |
+| 📄 | [**Fumito**](https://github.com/Chidaruma696/Fumito) | Résumé generator built from GitHub repositories: a static page with no server and no artificial intelligence, three templates, export to PDF and Markdown · [demo](https://chidaruma696.github.io/Fumito/) | JavaScript · GitHub Pages |
+| 🏪 | [**ToyPOS**](https://github.com/Chidaruma696/ToyPOS) | Core of a multi-branch point of sale: pure domain, local-first SQLite, scoped permissions, immutable audit log and end-to-end integer arithmetic | Rust · sqlx · OpenSpec |
+| 🧟 | [**Win2k Undead**](https://github.com/Chidaruma696/Win2k_undead) | The Windows 2000 desktop recreated for XFCE 4.18 and 4.20, with a native installer for Arch, Debian, Ubuntu, Fedora, Void and openSUSE | Bash · GTK · xfconf |
+| ⚖️ | [**Kana**](https://github.com/Chidaruma696/Kana) | Torrey scales from the browser over Web Serial: polling, parser with stability flags, stabilizer tested at the counter, automatic reconnection and a simulator | JavaScript · npm |
+| 🏷️ | [**Tohru**](https://github.com/Chidaruma696/Tohru) | Scale barcodes for Python: EAN-13, per-package identity, embedded weight and tolerance for readers that truncate digits | Python · pip |
+| 🌐 | [**azazel-dev**](https://github.com/Chidaruma696/azazel-dev) | Portfolio site in four languages with animations, the studio's public presence | Next.js 15 · Tailwind v4 |
 
 <br/>
 
-## 🛠️ Forma de trabajo
+## 🛠️ How I work
 
-- **Arquitectura antes que velocidad.** Cada aplicación parte de un dominio claro y separado de la interfaz; las reglas de negocio se prueban solas, sin base de datos ni pantalla de por medio.
-- **Local-first.** Los sistemas que construyo funcionan sin conexión y sincronizan cuando pueden. Un corte de internet no debe detener una caja ni un almacén.
-- **Dependencias mínimas y auditables.** Prefiero compilar una fuente dentro del proyecto a instalar un paquete que no controlo. Lo que se incluye, se conoce.
-- **Documentación como parte del producto.** Un README debe permitir instalar, entender y mantener el proyecto de corrido. Si hace falta preguntar al autor, la documentación está incompleta.
-- **Identidad visual coherente.** Un sistema de diseño propio, inspirado en la página de manga, con paletas de Touhou en modo claro y oscuro, compartido por todas las aplicaciones.
-- **Licencias claras.** Todo lo publicado lleva licencia abierta (Apache 2.0 o MIT) y créditos explícitos a los proyectos de los que depende.
-
-<br/>
-
-## 🎌 Principios
-
-- **Latinoamérica primero.** Las aplicaciones de anime y manga existen porque la oferta legal en la región llega tarde o no llega. El día que llegue, dejarán de ser necesarias, y será una buena noticia.
-- **Android abierto.** Todo lo que publico depende de que cada persona pueda instalar en su propio teléfono lo que decida. Apoyo la iniciativa [Keep Android Open](https://keepandroidopen.org/es/).
-- **Sin ruido.** Ningún proyecto incluye anuncios, rastreo ni paquetes que alteren el sistema. Se instala limpio y se desinstala limpio.
-- **Anime, manga, Touhou y Linux.** Son el origen de la mayoría de estos proyectos y de su estética.
+- **Architecture before speed.** Every application starts from a clear domain, separated from the interface; business rules are tested on their own, with no database or screen in between.
+- **Local-first.** The systems I build work offline and synchronize when they can. An internet outage should never stop a register or a warehouse.
+- **Minimal, auditable dependencies.** I would rather compile a source into the project than install a package I do not control. Whatever is included is understood.
+- **Documentation as part of the product.** A README should let you install, understand and maintain the project in one sitting. If you have to ask the author, the documentation is incomplete.
+- **Consistent visual identity.** A design system of my own, inspired by the manga page, with Touhou palettes in light and dark mode, shared across all applications.
+- **Clear licenses.** Everything I publish carries an open license (Apache 2.0 or MIT) and explicit credit to the projects it depends on.
 
 <br/>
 
-## ✉️ Contacto
+## 🎌 Principles
 
-Consultas profesionales y propuestas de trabajo: **jp@azazel.dev**
+- **Latin America first.** The anime and manga applications exist because the legal offering in the region arrives late or does not arrive at all. The day it does, they will stop being necessary, and that will be good news.
+- **Open Android.** Everything I publish depends on each person being able to install whatever they choose on their own phone. I support the [Keep Android Open](https://keepandroidopen.org/) initiative.
+- **No noise.** No project includes ads, tracking or packages that alter the system. It installs clean and uninstalls clean.
+- **Anime, manga, Touhou and Linux.** They are the origin of most of these projects and of their aesthetics.
+
+<br/>
+
+## ✉️ Contact
+
+Professional inquiries and work proposals: **jp@azazel.dev**
 
 <br/>
 
