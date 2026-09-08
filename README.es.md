@@ -69,17 +69,6 @@ Desarrollo software desde Latinoamérica en dos frentes: sistemas a medida para 
 
 <br/>
 
-## 🧪 Trabajo no publicado
-
-Proyectos desarrollados para clientes o que todavía están en curso, y que por ello no aparecen en este perfil:
-
-- 🏢 Un **ERP** de gestión empresarial, actualmente en su segunda versión.
-- 🧾 Un **sistema de gestión en PHP** que sostiene la operación diaria de un negocio en funcionamiento.
-- 🐍 **Herramientas en Python** para procesamiento de datos y automatización de tareas recurrentes.
-- 🔁 **Flujos de automatización con n8n** que integran servicios y eliminan trabajo manual.
-
-<br/>
-
 ## 🎌 Principios
 
 - **Latinoamérica primero.** Las aplicaciones de anime y manga existen porque la oferta legal en la región llega tarde o no llega. El día que llegue, dejarán de ser necesarias, y será una buena noticia.
