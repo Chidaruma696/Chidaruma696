@@ -71,6 +71,7 @@ Desarrollo software desde Latinoamérica en dos frentes: sistemas a medida para 
 - **Documentación como parte del producto.** Un README debe permitir instalar, entender y mantener el proyecto de corrido. Si hace falta preguntar al autor, la documentación está incompleta.
 - **Identidad visual coherente.** Un sistema de diseño propio, inspirado en la página de manga, con paletas de Touhou en modo claro y oscuro, compartido por todas las aplicaciones.
 - **Licencias claras.** Todo lo publicado lleva licencia abierta (Apache 2.0 o MIT) y créditos explícitos a los proyectos de los que depende.
+- **Software de una sola persona.** Algunos de estos proyectos los uso a diario y otros están todavía madurando; cada README dice en qué punto va. Se publican tal cual, sin garantía, como cualquier proyecto abierto. Si algo no te funciona, abre una issue y lo vemos.
 - **Y sí, uso IA.** En algunos de mis proyectos me ayudo con inteligencia artificial, como ayuda, no como sustituto. Eres libre de revisarlos o rechazarlos si así te apetece, o puedes ayudarme a mejorarlos: los *issues* y los *pull requests* están abiertos.
 
 <br/>

@@ -72,6 +72,7 @@ I build software from Latin America on two fronts: custom systems for businesses
 - **Documentation as part of the product.** A README should let you install, understand and maintain the project in one sitting. If you have to ask the author, the documentation is incomplete.
 - **Consistent visual identity.** A design system of my own, inspired by the manga page, with Touhou palettes in light and dark mode, shared across all applications.
 - **Clear licenses.** Everything I publish carries an open license (Apache 2.0 or MIT) and explicit credit to the projects it depends on.
+- **One-person software.** Some of these projects I use every day, others are still maturing; each README says where it stands. They ship as is, without warranty, like any open-source project. If something does not work for you, open an issue and we will sort it out.
 - **And yes, I use AI.** Some of my projects get a hand from artificial intelligence, as help, not as a replacement. You are free to review or reject them if you feel like it, or you can help me make them better: issues and pull requests are open.
 
 <br/>
