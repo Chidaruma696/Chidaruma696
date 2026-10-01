@@ -21,7 +21,6 @@
 [![PHP](https://img.shields.io/badge/php-777bb4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![SQLite](https://img.shields.io/badge/sqlite-003b57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![Arch Linux](https://img.shields.io/badge/arch%20linux-1793d1?style=for-the-badge&logo=archlinux&logoColor=white)](https://archlinux.org/)
-[![XFCE](https://img.shields.io/badge/xfce-2284f2?style=for-the-badge&logo=xfce&logoColor=white)](https://xfce.org/)
 
 </div>
 
@@ -37,7 +36,7 @@ Desarrollo software desde Latinoamérica en dos frentes: sistemas a medida para 
 | --- | --- |
 | Herramientas para Arch Linux y GNOME: un instalador que termina de una pasada, una tienda de software en la terminal, los colores del fondo en todo el escritorio | Sistemas de gestión empresarial: puntos de venta, inventarios y ERP, con reglas de negocio verificadas y bitácoras inmutables |
 | Herramientas para el navegador que funcionan sin servidor: grabación de pantalla exportada sin instalar ni subir nada | Sitios corporativos y portfolios en Next.js, con soporte multilingüe y despliegue estático |
-| Temas y entornos de escritorio para Linux, con instaladores multidistribución | Automatización de procesos con Python, PHP y n8n: integración entre servicios, procesamiento de datos y tareas internas |
+|  | Automatización de procesos con Python, PHP y n8n: integración entre servicios, procesamiento de datos y tareas internas |
 |  | Documentación técnica orientada a que el proyecto pueda mantenerse sin depender de su autor |
 
 <br/>
@@ -50,7 +49,6 @@ Desarrollo software desde Latinoamérica en dos frentes: sistemas a medida para 
 | 🌿 | [**Sanae**](https://github.com/Chidaruma696/Sanae) | Tienda de software para Arch Linux que vive en la terminal: estantes de AppStream con nombres humanos y popularidad, repositorios y AUR en una sola búsqueda, actualizaciones con las noticias de Arch, cola con vista previa, y recetas que instalan y configuran (Docker, QEMU, fuentes, temas de XFCE). Reimu ofrece instalarla al terminar | Rust · ratatui · pacman |
 | ◉ | [**Satori**](https://github.com/Chidaruma696/Satori) | Grabador de pantalla que vive en el navegador: graba una pantalla o ventana, recorta tiempo y área, y exporta MP4, WebM o GIF sin instalar ni subir nada · [úsalo](https://chidaruma696.github.io/Satori/) | TypeScript · WebCodecs · GitHub Pages |
 | 🩸 | [**Flandre**](https://github.com/Chidaruma696/Flandre) | Colores del fondo de pantalla para todo el escritorio GNOME en un solo binario: Shell, apps libadwaita y GTK 3, iconos Tela o Papirus, Ptyxis, Console, Black Box y cada terminal abierta se regeneran con cada cambio de fondo o de modo claro/oscuro, con ventana de ajustes libadwaita y previsualización en vivo | Rust · GTK 4 · libadwaita |
-| 🧟 | [**Win2k Undead**](https://github.com/Chidaruma696/Win2k_undead) | El escritorio de Windows 2000 recreado para XFCE 4.18 y 4.20, con instalador nativo para Arch, Debian, Ubuntu, Fedora, Void y openSUSE | Bash · GTK · xfconf |
 | 🌐 | [**azazel-dev**](https://github.com/Chidaruma696/azazel-dev) | Sitio portfolio en cuatro idiomas con animaciones, la presencia pública del estudio | Next.js 15 · Tailwind v4 |
 
 <br/>
