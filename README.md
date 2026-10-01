@@ -36,9 +36,9 @@ I build software from Latin America on two fronts: custom systems for businesses
 | 🧭 Own projects | 🧾 Custom development |
 | --- | --- |
 | Tools for Arch Linux and GNOME: an installer that finishes in one pass, a software store in the terminal, wallpaper colours for the whole desktop | Business management systems: points of sale, inventories and ERP, with verified business rules and immutable audit logs |
-| Browser tools that work without a server: document generation, hardware integration through Web Serial | Corporate sites and portfolios in Next.js, with multilingual support and static deployment |
-| Small, well-tested libraries for JavaScript and Python, ready to be published as packages | Process automation with Python, PHP and n8n: integration between services, data processing and internal tasks |
-| Themes and desktop environments for Linux, with multi-distribution installers | Technical documentation written so the project can be maintained without depending on its author |
+| Browser tools that work without a server: screen recording exported with nothing installed and nothing uploaded | Corporate sites and portfolios in Next.js, with multilingual support and static deployment |
+| Themes and desktop environments for Linux, with multi-distribution installers | Process automation with Python, PHP and n8n: integration between services, data processing and internal tasks |
+|  | Technical documentation written so the project can be maintained without depending on its author |
 
 <br/>
 
@@ -46,14 +46,11 @@ I build software from Latin America on two fronts: custom systems for businesses
 
 | | Project | Description | Technology |
 | --- | --- | --- | --- |
-| 📄 | [**Fumito**](https://github.com/Chidaruma696/Fumito) | Résumé generator built from GitHub repositories: a static page with no server and no artificial intelligence, three templates, export to PDF and Markdown · [demo](https://chidaruma696.github.io/Fumito/) | JavaScript · GitHub Pages |
 | ⛩️ | [**Reimu**](https://github.com/Chidaruma696/Reimu) | Arch Linux installer in Bash: asks the right questions (filesystem, swap, encryption, bootloader, desktop) and finishes the job in one pass: LUKS2, btrfs snapshots, systemd-boot or GRUB, drivers, AUR, software bundles, replayable config files | Bash · Arch ISO |
 | 🌿 | [**Sanae**](https://github.com/Chidaruma696/Sanae) | A software store for Arch Linux that lives in the terminal: shelves from AppStream with human names and popularity, repositories and AUR in one search, updates with the Arch news, a queue with preflight, and recipes that install and configure (Docker, QEMU, fonts, XFCE themes). Reimu offers to install it at the end | Rust · ratatui · pacman |
 | ◉ | [**Satori**](https://github.com/Chidaruma696/Satori) | Screen recorder that lives in the browser: record a screen or window, trim and crop, export as MP4, WebM or GIF with nothing installed and nothing uploaded · [use it](https://chidaruma696.github.io/Satori/) | TypeScript · WebCodecs · GitHub Pages |
 | 🩸 | [**Flandre**](https://github.com/Chidaruma696/Flandre) | Wallpaper colours for the whole GNOME desktop in one binary: Shell, libadwaita and GTK 3 apps, Tela or Papirus icons, Ptyxis, Console, Black Box and every open terminal regenerated on each wallpaper or light/dark change, with a libadwaita settings window and live preview | Rust · GTK 4 · libadwaita |
 | 🧟 | [**Win2k Undead**](https://github.com/Chidaruma696/Win2k_undead) | The Windows 2000 desktop recreated for XFCE 4.18 and 4.20, with a native installer for Arch, Debian, Ubuntu, Fedora, Void and openSUSE | Bash · GTK · xfconf |
-| ⚖️ | [**Kana**](https://github.com/Chidaruma696/Kana) | Torrey scales from the browser over Web Serial: polling, parser with stability flags, stabilizer tested at the counter, automatic reconnection and a simulator | JavaScript · npm |
-| 🏷️ | [**Tohru**](https://github.com/Chidaruma696/Tohru) | Scale barcodes for Python: EAN-13, per-package identity, embedded weight and tolerance for readers that truncate digits | Python · pip |
 | 🌐 | [**azazel-dev**](https://github.com/Chidaruma696/azazel-dev) | Portfolio site in four languages with animations, the studio's public presence | Next.js 15 · Tailwind v4 |
 
 <br/>
