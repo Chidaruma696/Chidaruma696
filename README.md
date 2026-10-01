@@ -9,17 +9,15 @@
 
 <br/>
 
-*Independent and custom software development · Android · Linux · Latin America*
+*Independent and custom software development · Linux · Latin America*
 
 <br/>
 
 [![Kotlin](https://img.shields.io/badge/kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![Jetpack Compose](https://img.shields.io/badge/compose-4285f4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/compose)
 [![Rust](https://img.shields.io/badge/rust-b7410e?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![TypeScript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Next.js](https://img.shields.io/badge/next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Python](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Common Lisp](https://img.shields.io/badge/common%20lisp-3b5b9c?style=for-the-badge&logo=commonlisp&logoColor=white)](https://common-lisp.net/)
 [![PHP](https://img.shields.io/badge/php-777bb4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![SQLite](https://img.shields.io/badge/sqlite-003b57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![Arch Linux](https://img.shields.io/badge/arch%20linux-1793d1?style=for-the-badge&logo=archlinux&logoColor=white)](https://archlinux.org/)
@@ -37,7 +35,7 @@ I build software from Latin America on two fronts: custom systems for businesses
 
 | 🧭 Own projects | 🧾 Custom development |
 | --- | --- |
-| Open-source Android applications for Latin America: anime and manga with the sources compiled into the APK, with no external extensions or intermediary stores | Business management systems: points of sale, inventories and ERP, with verified business rules and immutable audit logs |
+| Tools for Arch Linux and GNOME: an installer that finishes in one pass, a software store in the terminal, wallpaper colours for the whole desktop | Business management systems: points of sale, inventories and ERP, with verified business rules and immutable audit logs |
 | Browser tools that work without a server: document generation, hardware integration through Web Serial | Corporate sites and portfolios in Next.js, with multilingual support and static deployment |
 | Small, well-tested libraries for JavaScript and Python, ready to be published as packages | Process automation with Python, PHP and n8n: integration between services, data processing and internal tasks |
 | Themes and desktop environments for Linux, with multi-distribution installers | Technical documentation written so the project can be maintained without depending on its author |
@@ -48,14 +46,7 @@ I build software from Latin America on two fronts: custom systems for businesses
 
 | | Project | Description | Technology |
 | --- | --- | --- | --- |
-| 📺 | [**Hatate**](https://github.com/Chidaruma696/Hatate) | Anime viewer where you look for a series, not a site: AniList catalogue with MyAnimeList as a fallback, a hundred sources in English and Spanish compiled into the APK, the next server when one fails, libVLC player, parallel downloads and twelve palettes | Kotlin · Compose · libVLC |
-| 📖 | [**Kosuzu**](https://github.com/Chidaruma696/Kosuzu) | Manga reader, Hatate's sister: 340 Kotatsu parsers in English and Spanish compiled into the APK, chapters completed across sources and a right-to-left reader fitted to the page height | Kotlin · Compose |
-| 🖼️ | [**Mokona**](https://github.com/Chidaruma696/Mokona) | Ad-free Pixiv viewer: a staggered grid that keeps every work's real proportion, rankings and tag search, Material You with an AMOLED black mode, R-18 hidden by default | Kotlin · Compose · Material 3 |
-| 🧙 | [**Marisa**](https://github.com/Chidaruma696/Marisa) | Manga reader that lives in the terminal: MangaDex as the catalog, pages drawn at real resolution through the kitty graphics protocol, remembers where you left off; zoom, fit width and double page like a printed volume, reading languages in order and the interface in eight languages; one binary, no daemon | Common Lisp · SBCL · kitty |
-| ⬇️ | [**Seija**](https://github.com/Chidaruma696/Seija) | Anime downloader for the terminal: the Aniyomi sources in Spanish and English through a JVM helper, keeps the best quality with per-server fallback, aria2 for MP4 and ffmpeg for HLS; a queue that resumes | Common Lisp · SBCL · Kotlin |
 | 📄 | [**Fumito**](https://github.com/Chidaruma696/Fumito) | Résumé generator built from GitHub repositories: a static page with no server and no artificial intelligence, three templates, export to PDF and Markdown · [demo](https://chidaruma696.github.io/Fumito/) | JavaScript · GitHub Pages |
-| 🐉 | [**Kobayashi**](https://github.com/Chidaruma696/Kobayashi) | Point of sale, labeler and back office for small businesses, by modules: register with cash close, inventory ledger, EAN-13 identity labels with a Web Serial scale, orders and production with waste, dispatch with double scan and receiving, delivery trips with the driver's stop on the phone, route credit, collections, crates and price agreements, counts with charges; each business turns on what it uses (grocery, greengrocer, distributor, plant with stores), in three languages, and whatever is done without authorisation goes to a review tray instead of stopping the flow | Ruby on Rails · Hotwire · SQLite |
-| 🏪 | [**ToyPOS**](https://github.com/Chidaruma696/ToyPOS) *(archived)* | Core of a multi-branch point of sale: pure domain, local-first SQLite, scoped permissions, immutable audit log and end-to-end integer arithmetic | Rust · sqlx · OpenSpec |
 | ⛩️ | [**Reimu**](https://github.com/Chidaruma696/Reimu) | Arch Linux installer in Bash: asks the right questions (filesystem, swap, encryption, bootloader, desktop) and finishes the job in one pass: LUKS2, btrfs snapshots, systemd-boot or GRUB, drivers, AUR, software bundles, replayable config files | Bash · Arch ISO |
 | 🌿 | [**Sanae**](https://github.com/Chidaruma696/Sanae) | A software store for Arch Linux that lives in the terminal: shelves from AppStream with human names and popularity, repositories and AUR in one search, updates with the Arch news, a queue with preflight, and recipes that install and configure (Docker, QEMU, fonts, XFCE themes). Reimu offers to install it at the end | Rust · ratatui · pacman |
 | ◉ | [**Satori**](https://github.com/Chidaruma696/Satori) | Screen recorder that lives in the browser: record a screen or window, trim and crop, export as MP4, WebM or GIF with nothing installed and nothing uploaded · [use it](https://chidaruma696.github.io/Satori/) | TypeScript · WebCodecs · GitHub Pages |
@@ -73,7 +64,6 @@ I build software from Latin America on two fronts: custom systems for businesses
 - **Local-first.** The systems I build work offline and synchronize when they can. An internet outage should never stop a register or a warehouse.
 - **Minimal, auditable dependencies.** I would rather compile a source into the project than install a package I do not control. Whatever is included is understood.
 - **Documentation as part of the product.** A README should let you install, understand and maintain the project in one sitting. If you have to ask the author, the documentation is incomplete.
-- **Consistent visual identity.** A design system of my own, inspired by the manga page, with Touhou palettes in light and dark mode, shared across all applications.
 - **Clear licenses.** Everything I publish carries an open license (Apache 2.0 or MIT) and explicit credit to the projects it depends on.
 - **One-person software.** Some of these projects I use every day, others are still maturing; each README says where it stands. They ship as is, without warranty, like any open-source project. If something does not work for you, open an issue and we will sort it out.
 - **And yes, I use AI.** Some of my projects get a hand from artificial intelligence, as help, not as a replacement. You are free to review or reject them if you feel like it, or you can help me make them better: issues and pull requests are open.
@@ -82,10 +72,9 @@ I build software from Latin America on two fronts: custom systems for businesses
 
 ## 🎌 Principles
 
-- **Latin America first.** The anime and manga applications exist because the legal offering in the region arrives late or does not arrive at all. The day it does, they will stop being necessary, and that will be good news.
-- **Open Android.** Everything I publish depends on each person being able to install whatever they choose on their own phone. I support the [Keep Android Open](https://keepandroidopen.org/) initiative.
+- **Open Android.** Each person should be able to install whatever they choose on their own phone. I support the [Keep Android Open](https://keepandroidopen.org/) initiative.
 - **No noise.** No project includes ads, tracking or packages that alter the system. It installs clean and uninstalls clean.
-- **Anime, manga, Touhou and Linux.** They are the origin of most of these projects and of their aesthetics. Touhou Project and its characters (Reimu, Marisa, Seija, Kosuzu, Hatate, Sanae, Satori, Flandre, Patchouli and the palette names) belong to Team Shanghai Alice (ZUN); the projects named after them are unofficial fan work made under their guidelines for derivative works, with no affiliation or endorsement.
+- **Anime, manga, Touhou and Linux.** They are the origin of most of these projects and of their aesthetics. Touhou Project and its characters (Reimu, Sanae, Satori and Flandre) belong to Team Shanghai Alice (ZUN); the projects named after them are unofficial fan work made under their guidelines for derivative works, with no affiliation or endorsement.
 
 <br/>
 
