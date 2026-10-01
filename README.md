@@ -19,6 +19,7 @@
 [![TypeScript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Next.js](https://img.shields.io/badge/next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Python](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Common Lisp](https://img.shields.io/badge/common%20lisp-3b5b9c?style=for-the-badge&logo=commonlisp&logoColor=white)](https://common-lisp.net/)
 [![PHP](https://img.shields.io/badge/php-777bb4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![SQLite](https://img.shields.io/badge/sqlite-003b57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![Arch Linux](https://img.shields.io/badge/arch%20linux-1793d1?style=for-the-badge&logo=archlinux&logoColor=white)](https://archlinux.org/)
@@ -47,7 +48,11 @@ I build software from Latin America on two fronts: custom systems for businesses
 
 | | Project | Description | Technology |
 | --- | --- | --- | --- |
+| 📺 | [**Hatate**](https://github.com/Chidaruma696/Hatate) | Anime viewer where you look for a series, not a site: AniList catalogue with MyAnimeList as a fallback, a hundred sources in English and Spanish compiled into the APK, the next server when one fails, libVLC player, parallel downloads and twelve palettes | Kotlin · Compose · libVLC |
+| 📖 | [**Kosuzu**](https://github.com/Chidaruma696/Kosuzu) | Manga reader, Hatate's sister: 340 Kotatsu parsers in English and Spanish compiled into the APK, chapters completed across sources and a right-to-left reader fitted to the page height | Kotlin · Compose |
 | 🖼️ | [**Mokona**](https://github.com/Chidaruma696/Mokona) | Ad-free Pixiv viewer: a staggered grid that keeps every work's real proportion, rankings and tag search, Material You with an AMOLED black mode, R-18 hidden by default | Kotlin · Compose · Material 3 |
+| 🧙 | [**Marisa**](https://github.com/Chidaruma696/Marisa) | Manga reader that lives in the terminal: MangaDex as the catalog, pages drawn at real resolution through the kitty graphics protocol, remembers where you left off; zoom, fit width and double page like a printed volume, reading languages in order and the interface in eight languages; one binary, no daemon | Common Lisp · SBCL · kitty |
+| ⬇️ | [**Seija**](https://github.com/Chidaruma696/Seija) | Anime downloader for the terminal: the Aniyomi sources in Spanish and English through a JVM helper, keeps the best quality with per-server fallback, aria2 for MP4 and ffmpeg for HLS; a queue that resumes | Common Lisp · SBCL · Kotlin |
 | 📄 | [**Fumito**](https://github.com/Chidaruma696/Fumito) | Résumé generator built from GitHub repositories: a static page with no server and no artificial intelligence, three templates, export to PDF and Markdown · [demo](https://chidaruma696.github.io/Fumito/) | JavaScript · GitHub Pages |
 | 🐉 | [**Kobayashi**](https://github.com/Chidaruma696/Kobayashi) | Point of sale, labeler and back office for small businesses, by modules: register with cash close, inventory ledger, EAN-13 identity labels with a Web Serial scale, orders and production with waste, dispatch with double scan and receiving, delivery trips with the driver's stop on the phone, route credit, collections, crates and price agreements, counts with charges; each business turns on what it uses (grocery, greengrocer, distributor, plant with stores), in three languages, and whatever is done without authorisation goes to a review tray instead of stopping the flow | Ruby on Rails · Hotwire · SQLite |
 | 🏪 | [**ToyPOS**](https://github.com/Chidaruma696/ToyPOS) *(archived)* | Core of a multi-branch point of sale: pure domain, local-first SQLite, scoped permissions, immutable audit log and end-to-end integer arithmetic | Rust · sqlx · OpenSpec |
@@ -80,7 +85,7 @@ I build software from Latin America on two fronts: custom systems for businesses
 - **Latin America first.** The anime and manga applications exist because the legal offering in the region arrives late or does not arrive at all. The day it does, they will stop being necessary, and that will be good news.
 - **Open Android.** Everything I publish depends on each person being able to install whatever they choose on their own phone. I support the [Keep Android Open](https://keepandroidopen.org/) initiative.
 - **No noise.** No project includes ads, tracking or packages that alter the system. It installs clean and uninstalls clean.
-- **Anime, manga, Touhou and Linux.** They are the origin of most of these projects and of their aesthetics. Touhou Project and its characters (Reimu, Sanae, Satori, Flandre, Patchouli and the palette names) belong to Team Shanghai Alice (ZUN); the projects named after them are unofficial fan work made under their guidelines for derivative works, with no affiliation or endorsement.
+- **Anime, manga, Touhou and Linux.** They are the origin of most of these projects and of their aesthetics. Touhou Project and its characters (Reimu, Marisa, Seija, Kosuzu, Hatate, Sanae, Satori, Flandre, Patchouli and the palette names) belong to Team Shanghai Alice (ZUN); the projects named after them are unofficial fan work made under their guidelines for derivative works, with no affiliation or endorsement.
 
 <br/>
 
