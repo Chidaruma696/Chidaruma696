@@ -52,6 +52,7 @@ I build software from Latin America on two fronts: custom systems for businesses
 | 🩸 | [**Flandre**](https://github.com/Chidaruma696/Flandre) | Wallpaper colours for the whole GNOME desktop in one binary: Shell, libadwaita and GTK 3 apps, Tela or Papirus icons, Ptyxis, Console, Black Box and every open terminal regenerated on each wallpaper or light/dark change, with a libadwaita settings window and live preview | Rust · GTK 4 · libadwaita |
 | 🔪 | [**Sakuya**](https://github.com/Chidaruma696/Sakuya) | Point of sale and back office for small businesses, from one server for the head office and its branches: till, stock per branch, purchasing, warehouses and stock counts, with modules that turn on per business, insert-only ledgers, and the rules of each business written in a small Lisp that lives inside the app. Early phase | Ruby on Rails · Hotwire · SQLite · Lisp |
 | 🏷️ | [**Chimata**](https://github.com/Chidaruma696/Chimata) | Scale barcodes for Python: per-package identity or weight in the digits, tolerance for scanners that eat digits, and the layout of each scale written as a small Lisp file that is read, never run. No dependencies | Python · Lisp · EAN-13 |
+| 🔧 | [**Nitori**](https://github.com/Chidaruma696/Nitori) | Torrey scales from the browser with Web Serial, no drivers: polling, a stabilizer that captures each package once and notices when it's taken off, reconnection when the cable drops or the scale goes quiet, and a simulator to work without hardware. Pairs with Chimata | JavaScript · Web Serial |
 | 🌐 | [**azazel-dev**](https://github.com/Chidaruma696/azazel-dev) | Portfolio site in four languages with animations, the studio's public presence | Next.js 15 · Tailwind v4 |
 
 <br/>
@@ -72,7 +73,7 @@ I build software from Latin America on two fronts: custom systems for businesses
 
 - **Open Android.** Each person should be able to install whatever they choose on their own phone. I support the [Keep Android Open](https://keepandroidopen.org/) initiative.
 - **No noise.** No project includes ads, tracking or packages that alter the system. It installs clean and uninstalls clean.
-- **Anime, manga, Touhou and Linux.** They are the origin of most of these projects and of their aesthetics. Touhou Project and its characters (Reimu, Sanae, Satori, Flandre, Sakuya and Chimata) belong to Team Shanghai Alice (ZUN); the projects named after them are unofficial fan work made under their guidelines for derivative works, with no affiliation or endorsement.
+- **Anime, manga, Touhou and Linux.** They are the origin of most of these projects and of their aesthetics. Touhou Project and its characters (Reimu, Sanae, Satori, Flandre, Sakuya, Chimata and Nitori) belong to Team Shanghai Alice (ZUN); the projects named after them are unofficial fan work made under their guidelines for derivative works, with no affiliation or endorsement.
 
 <br/>
 

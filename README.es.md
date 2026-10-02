@@ -52,6 +52,7 @@ Desarrollo software desde Latinoamérica en dos frentes: sistemas a medida para 
 | 🩸 | [**Flandre**](https://github.com/Chidaruma696/Flandre) | Colores del fondo de pantalla para todo el escritorio GNOME en un solo binario: Shell, apps libadwaita y GTK 3, iconos Tela o Papirus, Ptyxis, Console, Black Box y cada terminal abierta se regeneran con cada cambio de fondo o de modo claro/oscuro, con ventana de ajustes libadwaita y previsualización en vivo | Rust · GTK 4 · libadwaita |
 | 🔪 | [**Sakuya**](https://github.com/Chidaruma696/Sakuya) | Punto de venta y back office para negocios chicos, desde un solo servidor para la matriz y sus sucursales: caja, inventario por sucursal, compras, almacenes y conteos, con módulos que se encienden por negocio, registros que solo se insertan, y las reglas de cada negocio escritas en un pequeño Lisp que vive dentro de la app. En fase temprana | Ruby on Rails · Hotwire · SQLite · Lisp |
 | 🏷️ | [**Chimata**](https://github.com/Chidaruma696/Chimata) | Códigos de barras de báscula para Python: identidad por paquete o peso en los dígitos, tolerancia a lectores que se comen dígitos, y el formato de cada báscula escrito en un archivito Lisp que se lee y nunca se ejecuta. Sin dependencias | Python · Lisp · EAN-13 |
+| 🔧 | [**Nitori**](https://github.com/Chidaruma696/Nitori) | Básculas Torrey desde el navegador con Web Serial, sin drivers: sondeo, un estabilizador que captura cada paquete una vez y detecta cuando se retira, reconexión si el cable se cae o la báscula se calla, y un simulador para trabajar sin hardware. Hace pareja con Chimata | JavaScript · Web Serial |
 | 🌐 | [**azazel-dev**](https://github.com/Chidaruma696/azazel-dev) | Sitio portfolio en cuatro idiomas con animaciones, la presencia pública del estudio | Next.js 15 · Tailwind v4 |
 
 <br/>
@@ -72,7 +73,7 @@ Desarrollo software desde Latinoamérica en dos frentes: sistemas a medida para 
 
 - **Android abierto.** Cada persona debería poder instalar en su propio teléfono lo que decida. Apoyo la iniciativa [Keep Android Open](https://keepandroidopen.org/es/).
 - **Sin ruido.** Ningún proyecto incluye anuncios, rastreo ni paquetes que alteren el sistema. Se instala limpio y se desinstala limpio.
-- **Anime, manga, Touhou y Linux.** Son el origen de la mayoría de estos proyectos y de su estética. Touhou Project y sus personajes (Reimu, Sanae, Satori, Flandre, Sakuya y Chimata) pertenecen a Team Shanghai Alice (ZUN); los proyectos que llevan sus nombres son obras de fans no oficiales, hechas según sus directrices para obras derivadas, sin afiliación ni respaldo.
+- **Anime, manga, Touhou y Linux.** Son el origen de la mayoría de estos proyectos y de su estética. Touhou Project y sus personajes (Reimu, Sanae, Satori, Flandre, Sakuya, Chimata y Nitori) pertenecen a Team Shanghai Alice (ZUN); los proyectos que llevan sus nombres son obras de fans no oficiales, hechas según sus directrices para obras derivadas, sin afiliación ni respaldo.
 
 <br/>
 
