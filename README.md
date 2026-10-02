@@ -49,6 +49,7 @@ I build software from Latin America on two fronts: custom systems for businesses
 | 🌿 | [**Sanae**](https://github.com/Chidaruma696/Sanae) | A software store for Arch Linux that lives in the terminal: shelves from AppStream with human names and popularity, repositories and AUR in one search, updates with the Arch news, a queue with preflight, and recipes that install and configure (Docker, QEMU, fonts, XFCE themes). Reimu offers to install it at the end | Rust · ratatui · pacman |
 | ◉ | [**Satori**](https://github.com/Chidaruma696/Satori) | Screen recorder that lives in the browser: record a screen or window, trim and crop, export as MP4, WebM or GIF with nothing installed and nothing uploaded · [use it](https://chidaruma696.github.io/Satori/) | TypeScript · WebCodecs · GitHub Pages |
 | 🩸 | [**Flandre**](https://github.com/Chidaruma696/Flandre) | Wallpaper colours for the whole GNOME desktop in one binary: Shell, libadwaita and GTK 3 apps, Tela or Papirus icons, Ptyxis, Console, Black Box and every open terminal regenerated on each wallpaper or light/dark change, with a libadwaita settings window and live preview | Rust · GTK 4 · libadwaita |
+| 🏷️ | [**Chimata**](https://github.com/Chidaruma696/Chimata) | Scale barcodes for Python: per-package identity or weight in the digits, tolerance for scanners that eat digits, and the layout of each scale written as a small Lisp file that is read, never run. No dependencies | Python · Lisp · EAN-13 |
 | 🌐 | [**azazel-dev**](https://github.com/Chidaruma696/azazel-dev) | Portfolio site in four languages with animations, the studio's public presence | Next.js 15 · Tailwind v4 |
 
 <br/>
@@ -69,7 +70,7 @@ I build software from Latin America on two fronts: custom systems for businesses
 
 - **Open Android.** Each person should be able to install whatever they choose on their own phone. I support the [Keep Android Open](https://keepandroidopen.org/) initiative.
 - **No noise.** No project includes ads, tracking or packages that alter the system. It installs clean and uninstalls clean.
-- **Anime, manga, Touhou and Linux.** They are the origin of most of these projects and of their aesthetics. Touhou Project and its characters (Reimu, Sanae, Satori and Flandre) belong to Team Shanghai Alice (ZUN); the projects named after them are unofficial fan work made under their guidelines for derivative works, with no affiliation or endorsement.
+- **Anime, manga, Touhou and Linux.** They are the origin of most of these projects and of their aesthetics. Touhou Project and its characters (Reimu, Sanae, Satori, Flandre and Chimata) belong to Team Shanghai Alice (ZUN); the projects named after them are unofficial fan work made under their guidelines for derivative works, with no affiliation or endorsement.
 
 <br/>
 
