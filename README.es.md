@@ -19,6 +19,7 @@
 [![Next.js](https://img.shields.io/badge/next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Python](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PHP](https://img.shields.io/badge/php-777bb4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Ruby on Rails](https://img.shields.io/badge/ruby%20on%20rails-cc0000?style=for-the-badge&logo=rubyonrails&logoColor=white)](https://rubyonrails.org/)
 [![SQLite](https://img.shields.io/badge/sqlite-003b57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![Arch Linux](https://img.shields.io/badge/arch%20linux-1793d1?style=for-the-badge&logo=archlinux&logoColor=white)](https://archlinux.org/)
 
@@ -49,6 +50,7 @@ Desarrollo software desde Latinoamérica en dos frentes: sistemas a medida para 
 | 🌿 | [**Sanae**](https://github.com/Chidaruma696/Sanae) | Tienda de software para Arch Linux que vive en la terminal: estantes de AppStream con nombres humanos y popularidad, repositorios y AUR en una sola búsqueda, actualizaciones con las noticias de Arch, cola con vista previa, y recetas que instalan y configuran (Docker, QEMU, fuentes, temas de XFCE). Reimu ofrece instalarla al terminar | Rust · ratatui · pacman |
 | ◉ | [**Satori**](https://github.com/Chidaruma696/Satori) | Grabador de pantalla que vive en el navegador: graba una pantalla o ventana, recorta tiempo y área, y exporta MP4, WebM o GIF sin instalar ni subir nada · [úsalo](https://chidaruma696.github.io/Satori/) | TypeScript · WebCodecs · GitHub Pages |
 | 🩸 | [**Flandre**](https://github.com/Chidaruma696/Flandre) | Colores del fondo de pantalla para todo el escritorio GNOME en un solo binario: Shell, apps libadwaita y GTK 3, iconos Tela o Papirus, Ptyxis, Console, Black Box y cada terminal abierta se regeneran con cada cambio de fondo o de modo claro/oscuro, con ventana de ajustes libadwaita y previsualización en vivo | Rust · GTK 4 · libadwaita |
+| 🔪 | [**Sakuya**](https://github.com/Chidaruma696/Sakuya) | Punto de venta y back office para negocios chicos, desde un solo servidor para la matriz y sus sucursales: caja, inventario por sucursal, compras, almacenes y conteos, con módulos que se encienden por negocio, registros que solo se insertan, y las reglas de cada negocio escritas en un pequeño Lisp que vive dentro de la app. En fase temprana | Ruby on Rails · Hotwire · SQLite · Lisp |
 | 🏷️ | [**Chimata**](https://github.com/Chidaruma696/Chimata) | Códigos de barras de báscula para Python: identidad por paquete o peso en los dígitos, tolerancia a lectores que se comen dígitos, y el formato de cada báscula escrito en un archivito Lisp que se lee y nunca se ejecuta. Sin dependencias | Python · Lisp · EAN-13 |
 | 🌐 | [**azazel-dev**](https://github.com/Chidaruma696/azazel-dev) | Sitio portfolio en cuatro idiomas con animaciones, la presencia pública del estudio | Next.js 15 · Tailwind v4 |
 
@@ -70,7 +72,7 @@ Desarrollo software desde Latinoamérica en dos frentes: sistemas a medida para 
 
 - **Android abierto.** Cada persona debería poder instalar en su propio teléfono lo que decida. Apoyo la iniciativa [Keep Android Open](https://keepandroidopen.org/es/).
 - **Sin ruido.** Ningún proyecto incluye anuncios, rastreo ni paquetes que alteren el sistema. Se instala limpio y se desinstala limpio.
-- **Anime, manga, Touhou y Linux.** Son el origen de la mayoría de estos proyectos y de su estética. Touhou Project y sus personajes (Reimu, Sanae, Satori, Flandre y Chimata) pertenecen a Team Shanghai Alice (ZUN); los proyectos que llevan sus nombres son obras de fans no oficiales, hechas según sus directrices para obras derivadas, sin afiliación ni respaldo.
+- **Anime, manga, Touhou y Linux.** Son el origen de la mayoría de estos proyectos y de su estética. Touhou Project y sus personajes (Reimu, Sanae, Satori, Flandre, Sakuya y Chimata) pertenecen a Team Shanghai Alice (ZUN); los proyectos que llevan sus nombres son obras de fans no oficiales, hechas según sus directrices para obras derivadas, sin afiliación ni respaldo.
 
 <br/>
 
