@@ -18,6 +18,7 @@
 [![TypeScript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Next.js](https://img.shields.io/badge/next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Python](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Common Lisp](https://img.shields.io/badge/common%20lisp-3b5b9c?style=for-the-badge&logo=commonlisp&logoColor=white)](https://common-lisp.net/)
 [![PHP](https://img.shields.io/badge/php-777bb4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Ruby on Rails](https://img.shields.io/badge/ruby%20on%20rails-cc0000?style=for-the-badge&logo=rubyonrails&logoColor=white)](https://rubyonrails.org/)
 [![SQLite](https://img.shields.io/badge/sqlite-003b57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
@@ -50,6 +51,7 @@ I build software from Latin America on two fronts: custom systems for businesses
 | 🌿 | [**Sanae**](https://github.com/Chidaruma696/Sanae) | A software store for Arch Linux that lives in the terminal: shelves from AppStream with human names and popularity, repositories and AUR in one search, updates with the Arch news, a queue with preflight, and recipes that install and configure (Docker, QEMU, fonts, XFCE themes). Reimu offers to install it at the end | Rust · ratatui · pacman |
 | ◉ | [**Satori**](https://github.com/Chidaruma696/Satori) | Screen recorder that lives in the browser: record a screen or window, trim and crop, export as MP4, WebM or GIF with nothing installed and nothing uploaded · [use it](https://chidaruma696.github.io/Satori/) | TypeScript · WebCodecs · GitHub Pages |
 | 🩸 | [**Flandre**](https://github.com/Chidaruma696/Flandre) | Wallpaper colours for the whole GNOME desktop in one binary: Shell, libadwaita and GTK 3 apps, Tela or Papirus icons, Ptyxis, Console, Black Box and every open terminal regenerated on each wallpaper or light/dark change, with a libadwaita settings window and live preview | Rust · GTK 4 · libadwaita |
+| ⬇️ | [**Seija**](https://github.com/Chidaruma696/Seija) | Anime downloader for the terminal, on Linux and Windows: searches the Aniyomi sources in Spanish and English through a JVM helper, a whole series in one key or host and quality picked by hand, downloads split into pieces by aria2 and HLS stitched by ffmpeg, several episodes at once and a queue that resumes. Interface in eight languages | Common Lisp · SBCL · Kotlin · aria2 |
 | 🔪 | [**Sakuya**](https://github.com/Chidaruma696/Sakuya) | Point of sale and back office for small businesses, from one server for the head office and its branches: till, stock per branch, purchasing, warehouses and stock counts, with modules that turn on per business, insert-only ledgers, and the rules of each business written in a small Lisp that lives inside the app. Early phase | Ruby on Rails · Hotwire · SQLite · Lisp |
 | 🏷️ | [**Chimata**](https://github.com/Chidaruma696/Chimata) | Scale barcodes for Python: per-package identity or weight in the digits, tolerance for scanners that eat digits, and the layout of each scale written as a small Lisp file that is read, never run. No dependencies | Python · Lisp · EAN-13 |
 | 🔧 | [**Nitori**](https://github.com/Chidaruma696/Nitori) | Torrey scales from the browser with Web Serial, no drivers: polling, a stabilizer that captures each package once and notices when it's taken off, reconnection when the cable drops or the scale goes quiet, and a simulator to work without hardware. Pairs with Chimata | JavaScript · Web Serial |
@@ -73,7 +75,7 @@ I build software from Latin America on two fronts: custom systems for businesses
 
 - **Open Android.** Each person should be able to install whatever they choose on their own phone. I support the [Keep Android Open](https://keepandroidopen.org/) initiative.
 - **No noise.** No project includes ads, tracking or packages that alter the system. It installs clean and uninstalls clean.
-- **Anime, manga, Touhou and Linux.** They are the origin of most of these projects and of their aesthetics. Touhou Project and its characters (Reimu, Sanae, Satori, Flandre, Sakuya, Chimata and Nitori) belong to Team Shanghai Alice (ZUN); the projects named after them are unofficial fan work made under their guidelines for derivative works, with no affiliation or endorsement.
+- **Anime, manga, Touhou and Linux.** They are the origin of most of these projects and of their aesthetics. Touhou Project and its characters (Reimu, Sanae, Satori, Flandre, Seija, Sakuya, Chimata and Nitori) belong to Team Shanghai Alice (ZUN); the projects named after them are unofficial fan work made under their guidelines for derivative works, with no affiliation or endorsement.
 
 <br/>
 
