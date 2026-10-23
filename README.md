@@ -18,6 +18,7 @@
 [![TypeScript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Next.js](https://img.shields.io/badge/next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Python](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Qt](https://img.shields.io/badge/qt-41cd52?style=for-the-badge&logo=qt&logoColor=white)](https://www.qt.io/)
 [![Common Lisp](https://img.shields.io/badge/common%20lisp-3b5b9c?style=for-the-badge&logo=commonlisp&logoColor=white)](https://common-lisp.net/)
 [![PHP](https://img.shields.io/badge/php-777bb4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Ruby on Rails](https://img.shields.io/badge/ruby%20on%20rails-cc0000?style=for-the-badge&logo=rubyonrails&logoColor=white)](https://rubyonrails.org/)
@@ -37,7 +38,7 @@ I build software from Latin America on two fronts: custom systems for businesses
 | 🧭 Own projects | 🧾 Custom development |
 | --- | --- |
 | Tools for Arch Linux and GNOME: an installer that finishes in one pass, a software store in the terminal, wallpaper colours for the whole desktop | Business management systems: points of sale, inventories and ERP, with verified business rules and immutable audit logs |
-| Browser tools that work without a server: screen recording exported with nothing installed and nothing uploaded | Corporate sites and portfolios in Next.js, with multilingual support and static deployment |
+| Browser and desktop tools that work without a server: screen recording exported with nothing installed and nothing uploaded, PDF statements turned into Excel | Corporate sites and portfolios in Next.js, with multilingual support and static deployment |
 |  | Process automation with Python, PHP and n8n: integration between services, data processing and internal tasks |
 |  | Technical documentation written so the project can be maintained without depending on its author |
 
@@ -50,6 +51,7 @@ I build software from Latin America on two fronts: custom systems for businesses
 | ⛩️ | [**Reimu**](https://github.com/Chidaruma696/Reimu) | Arch Linux installer in Bash: asks the right questions (filesystem, swap, encryption, bootloader, desktop) and finishes the job in one pass: LUKS2, btrfs snapshots, systemd-boot or GRUB, drivers, AUR, software bundles, replayable config files | Bash · Arch ISO |
 | 🌿 | [**Sanae**](https://github.com/Chidaruma696/Sanae) | A software store for Arch Linux that lives in the terminal: shelves from AppStream with human names and popularity, repositories and AUR in one search, updates with the Arch news, a queue with preflight, and recipes that install and configure (Docker, QEMU, fonts, XFCE themes). Reimu offers to install it at the end | Rust · ratatui · pacman |
 | ◉ | [**Satori**](https://github.com/Chidaruma696/Satori) | Screen recorder that lives in the browser: record a screen or window, trim and crop, export as MP4, WebM or GIF with nothing installed and nothing uploaded · [use it](https://chidaruma696.github.io/Satori/) | TypeScript · WebCodecs · GitHub Pages |
+| ❄️ | [**Cirno**](https://github.com/Chidaruma696/Cirno) | PDF account statements turned into Excel workbooks: summary, movements with their payment applications and closing balance, cross-checked against the statement's own control figures, in a drag-and-drop window with a Windows installer | Python · PySide6 · openpyxl |
 | 🩸 | [**Flandre**](https://github.com/Chidaruma696/Flandre) | Wallpaper colours for the whole GNOME desktop in one binary: Shell, libadwaita and GTK 3 apps, Tela or Papirus icons, Ptyxis, Console, Black Box and every open terminal regenerated on each wallpaper or light/dark change, with a libadwaita settings window and live preview | Rust · GTK 4 · libadwaita |
 | 📚 | [**Patchouli**](https://github.com/Chidaruma696/Patchouli) | Video player for Android for the anime you already have on the phone: your folders become the library, each series gets its cover, year and synopsis from AniList (or one you pick from the web or the phone), "continue watching" and next episode, and the gestures everyone knows: brightness on the left, volume on the right, drag to seek, double tap, hold for 2×, pinch. libVLC inside, no ads | Kotlin · Jetpack Compose · libVLC |
 | 🔪 | [**Sakuya**](https://github.com/Chidaruma696/Sakuya) | Point of sale and back office for small businesses, from one server for the head office and its branches: till, stock per branch, purchasing, warehouses and stock counts, with modules that turn on per business, insert-only ledgers, and the rules of each business written in a small Lisp that lives inside the app. Early phase | Ruby on Rails · Hotwire · SQLite · Lisp |
@@ -75,7 +77,7 @@ I build software from Latin America on two fronts: custom systems for businesses
 
 - **Open Android.** Each person should be able to install whatever they choose on their own phone. I support the [Keep Android Open](https://keepandroidopen.org/) initiative.
 - **No noise.** No project includes ads, tracking or packages that alter the system. It installs clean and uninstalls clean.
-- **Anime, manga, Touhou and Linux.** They are the origin of most of these projects and of their aesthetics. Touhou Project and its characters (Reimu, Sanae, Satori, Flandre, Patchouli, Sakuya, Chimata and Nitori) belong to Team Shanghai Alice (ZUN); the projects named after them are unofficial fan work made under their guidelines for derivative works, with no affiliation or endorsement.
+- **Anime, manga, Touhou and Linux.** They are the origin of most of these projects and of their aesthetics. Touhou Project and its characters (Reimu, Sanae, Satori, Cirno, Flandre, Patchouli, Sakuya, Chimata and Nitori) belong to Team Shanghai Alice (ZUN); the projects named after them are unofficial fan work made under their guidelines for derivative works, with no affiliation or endorsement.
 
 <br/>
 

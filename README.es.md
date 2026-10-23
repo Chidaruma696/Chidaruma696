@@ -18,6 +18,7 @@
 [![TypeScript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Next.js](https://img.shields.io/badge/next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Python](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Qt](https://img.shields.io/badge/qt-41cd52?style=for-the-badge&logo=qt&logoColor=white)](https://www.qt.io/)
 [![Common Lisp](https://img.shields.io/badge/common%20lisp-3b5b9c?style=for-the-badge&logo=commonlisp&logoColor=white)](https://common-lisp.net/)
 [![PHP](https://img.shields.io/badge/php-777bb4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Ruby on Rails](https://img.shields.io/badge/ruby%20on%20rails-cc0000?style=for-the-badge&logo=rubyonrails&logoColor=white)](https://rubyonrails.org/)
@@ -37,7 +38,7 @@ Desarrollo software desde Latinoamérica en dos frentes: sistemas a medida para 
 | 🧭 Proyectos propios | 🧾 Desarrollo a medida |
 | --- | --- |
 | Herramientas para Arch Linux y GNOME: un instalador que termina de una pasada, una tienda de software en la terminal, los colores del fondo en todo el escritorio | Sistemas de gestión empresarial: puntos de venta, inventarios y ERP, con reglas de negocio verificadas y bitácoras inmutables |
-| Herramientas para el navegador que funcionan sin servidor: grabación de pantalla exportada sin instalar ni subir nada | Sitios corporativos y portfolios en Next.js, con soporte multilingüe y despliegue estático |
+| Herramientas para el navegador y el escritorio que funcionan sin servidor: grabación de pantalla exportada sin instalar ni subir nada, estados de cuenta PDF a Excel | Sitios corporativos y portfolios en Next.js, con soporte multilingüe y despliegue estático |
 |  | Automatización de procesos con Python, PHP y n8n: integración entre servicios, procesamiento de datos y tareas internas |
 |  | Documentación técnica orientada a que el proyecto pueda mantenerse sin depender de su autor |
 
@@ -50,6 +51,7 @@ Desarrollo software desde Latinoamérica en dos frentes: sistemas a medida para 
 | ⛩️ | [**Reimu**](https://github.com/Chidaruma696/Reimu) | Instalador de Arch Linux en Bash: hace las preguntas correctas (sistema de archivos, swap, cifrado, bootloader, escritorio) y termina el trabajo en una sola pasada: LUKS2, snapshots btrfs, systemd-boot o GRUB, drivers, AUR, paquetes de software, configuraciones repetibles | Bash · ISO de Arch |
 | 🌿 | [**Sanae**](https://github.com/Chidaruma696/Sanae) | Tienda de software para Arch Linux que vive en la terminal: estantes de AppStream con nombres humanos y popularidad, repositorios y AUR en una sola búsqueda, actualizaciones con las noticias de Arch, cola con vista previa, y recetas que instalan y configuran (Docker, QEMU, fuentes, temas de XFCE). Reimu ofrece instalarla al terminar | Rust · ratatui · pacman |
 | ◉ | [**Satori**](https://github.com/Chidaruma696/Satori) | Grabador de pantalla que vive en el navegador: graba una pantalla o ventana, recorta tiempo y área, y exporta MP4, WebM o GIF sin instalar ni subir nada · [úsalo](https://chidaruma696.github.io/Satori/) | TypeScript · WebCodecs · GitHub Pages |
+| ❄️ | [**Cirno**](https://github.com/Chidaruma696/Cirno) | Estados de cuenta en PDF convertidos en libros de Excel: resumen, movimientos con sus aplicaciones de pago y saldo final, cuadrados contra las cifras control del propio estado, en una ventana de arrastrar y soltar con instalador para Windows | Python · PySide6 · openpyxl |
 | 🩸 | [**Flandre**](https://github.com/Chidaruma696/Flandre) | Colores del fondo de pantalla para todo el escritorio GNOME en un solo binario: Shell, apps libadwaita y GTK 3, iconos Tela o Papirus, Ptyxis, Console, Black Box y cada terminal abierta se regeneran con cada cambio de fondo o de modo claro/oscuro, con ventana de ajustes libadwaita y previsualización en vivo | Rust · GTK 4 · libadwaita |
 | 📚 | [**Patchouli**](https://github.com/Chidaruma696/Patchouli) | Reproductor de vídeo para Android para el anime que ya tienes en el teléfono: tus carpetas son la biblioteca, cada serie recibe su carátula, año y sinopsis de AniList (o una que elijas de la web o del teléfono), «seguir viendo» y siguiente episodio, y los gestos de siempre: brillo a la izquierda, volumen a la derecha, arrastrar para buscar, doble toque, mantener para 2×, pellizco. libVLC dentro, sin anuncios | Kotlin · Jetpack Compose · libVLC |
 | 🔪 | [**Sakuya**](https://github.com/Chidaruma696/Sakuya) | Punto de venta y back office para negocios chicos, desde un solo servidor para la matriz y sus sucursales: caja, inventario por sucursal, compras, almacenes y conteos, con módulos que se encienden por negocio, registros que solo se insertan, y las reglas de cada negocio escritas en un pequeño Lisp que vive dentro de la app. En fase temprana | Ruby on Rails · Hotwire · SQLite · Lisp |
@@ -75,7 +77,7 @@ Desarrollo software desde Latinoamérica en dos frentes: sistemas a medida para 
 
 - **Android abierto.** Cada persona debería poder instalar en su propio teléfono lo que decida. Apoyo la iniciativa [Keep Android Open](https://keepandroidopen.org/es/).
 - **Sin ruido.** Ningún proyecto incluye anuncios, rastreo ni paquetes que alteren el sistema. Se instala limpio y se desinstala limpio.
-- **Anime, manga, Touhou y Linux.** Son el origen de la mayoría de estos proyectos y de su estética. Touhou Project y sus personajes (Reimu, Sanae, Satori, Flandre, Patchouli, Sakuya, Chimata y Nitori) pertenecen a Team Shanghai Alice (ZUN); los proyectos que llevan sus nombres son obras de fans no oficiales, hechas según sus directrices para obras derivadas, sin afiliación ni respaldo.
+- **Anime, manga, Touhou y Linux.** Son el origen de la mayoría de estos proyectos y de su estética. Touhou Project y sus personajes (Reimu, Sanae, Satori, Cirno, Flandre, Patchouli, Sakuya, Chimata y Nitori) pertenecen a Team Shanghai Alice (ZUN); los proyectos que llevan sus nombres son obras de fans no oficiales, hechas según sus directrices para obras derivadas, sin afiliación ni respaldo.
 
 <br/>
 
